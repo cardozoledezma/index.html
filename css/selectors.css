@@ -49,7 +49,9 @@ div {
 }
 
 /*Make all the <p>'s that are nested inside of divs 25px font(font-size: 25px)*/
-
+p {
+    font-size: 25px;
+}
 
 /*Make only inputs with type 'text' have a gray background*/
 
